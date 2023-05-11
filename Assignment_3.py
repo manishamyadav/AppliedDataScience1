@@ -56,7 +56,7 @@ def read_file(file_name):
 
 df_gdp, df_gdptrans = read_file("GDP Growth.csv")
 df_inflation, df_inflationtrans = read_file("Inflation consumer prices.csv")
-df_grosssaving, df_grosssavingtrans = read_file("Gross savings.csv")
+
 
 # Function 1
 
